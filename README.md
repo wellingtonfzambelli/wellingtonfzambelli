@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on private projects<br>🌱 I’m currently learning SPA Application<br>
+🔭 I’m currently working on private projects
 
 
 ## 🌐 Socials:
